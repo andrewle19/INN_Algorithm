@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\andrew\documents\visual studio 2015\projects\improvednearestneighboralgorithm\improvednearestneighboralgorithm\source.cpp(105): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ImprovedNearestNeighborAlgorithm.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ImprovedNearestNeighborAlgorithm\Debug\ImprovedNearestNeighborAlgorithm.exe
+  ImprovedNearestNeighborAlgorithm.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ImprovedNearestNeighborAlgorithm\Debug\ImprovedNearestNeighborAlgorithm.pdb (Partial PDB)
